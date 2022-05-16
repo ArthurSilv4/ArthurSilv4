@@ -1,8 +1,7 @@
 ### Olá! Eu sou o Arthur silva
 
 - 🔭 Procurando minha primeira vaga
-- 🌱 Estudando Desenvolvimento de jogos com c# na Unity
-- 😄 Pronouns: Ele/Dele
+- 🌱 Estudando Desenvolvimento de jogos com C# na Unity
 
 <div align="center">
   <a href="https://github.com/arthursilv4">
