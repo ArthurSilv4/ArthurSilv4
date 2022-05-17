@@ -16,5 +16,3 @@
   <img align="center" alt="Arthur-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
  
 </div>
-  
-![Snake animation](https://github.com/ArthurSilv4/ArthurSilv4/blob/output/github-contribution-grid-snake.svg)
