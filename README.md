@@ -10,4 +10,4 @@ Desenvolvedor Front-end
 
 
 
-Eu sou um desenvolvedor front-end especializado em React e Next.js, apaixonado por criar interfaces incríveis e funcionais. Habilidades sólidas em HTML, CSS e JavaScript, transformando designs em experiências web responsivas. Utilizo o React para criar componentes reutilizáveis e o Next.js para desenvolver aplicativos web de alto desempenho. Comunicador habilidoso, sempre atualizado nas melhores práticas. Vamos colaborar e criar interfaces modernas juntos!
+Eu sou um desenvolvedor front-end especializado em **React** e **Next.js**, apaixonado por criar interfaces incríveis e funcionais. **Habilidades sólidas em HTML, CSS e JavaScript**, transformando designs em experiências web responsivas. Utilizo o React para criar **componentes reutilizáveis** e o Next.js para desenvolver aplicativos web de **alto desempenho**. Comunicador habilidoso, sempre atualizado nas melhores práticas. Vamos colaborar e criar interfaces modernas juntos!
