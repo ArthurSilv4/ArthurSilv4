@@ -6,7 +6,7 @@
 
 Desenvolvedor Front-end
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-de-souza-dev/)](https://www.linkedin.com/in/arthur-souza-dev/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-de-souza-dev/)](https://www.linkedin.com/in/arthursouza-dev/) 
 
 
 
