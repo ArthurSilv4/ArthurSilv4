@@ -4,10 +4,10 @@
   </h1>
 </div>
 
-Desenvolvedor Web Full Stack e Cientista de dados
+Desenvolvedor Web Back-End e Cientista de Dados
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-5658dd?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-de-souza-dev/)](https://www.linkedin.com/in/arthur-souza-dev/) 
 
 
 
-Sou um desenvolvedor Web Full Stack especializado em React e Node.js, apaixonado por criar interfaces incríveis e funcionais. Possuo habilidades sólidas em HTML, CSS e JavaScript, transformando designs em experiências web responsivas. Utilizo o React para criar componentes reutilizáveis e o Next.js para desenvolver aplicativos web de alto desempenho. Além disso, estou atualmente cursando Ciências de Dados, buscando expandir ainda mais meu conhecimento. Sou um comunicador habilidoso e estou sempre atualizado nas melhores práticas. Estou entusiasmado para colaborar e criar interfaces modernas juntos!
+Sou um desenvolvedor especializado em back-end com foco em C#, .Net e ASP.Net. Tenho conhecimento sólido em front-end, incluindo HTML, CSS, JavaScript e React, mas no momento estou focado exclusivamente no desenvolvimento back-end. Utilizo minha expertise para desenvolver aplicativos web de alto desempenho. Além disso, estou cursando simultaneamente Análise e Desenvolvimento de Sistemas e Ciência de Dados para expandir ainda mais meu conhecimento. Sou um comunicador habilidoso, sempre atualizado nas melhores práticas, e estou entusiasmado para colaborar e criar soluções modernas juntos!
